@@ -1,0 +1,8 @@
+.actionsBtn {
+  display: flex;
+  gap: 10px;
+}
+
+.actionsIcon {
+  fill: rgb(64, 64, 64);
+}
